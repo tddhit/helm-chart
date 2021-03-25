@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  echoserver:
+  test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-25T21:12:25.281393762+08:00"
+    created: "2021-03-25T21:20:04.160136974+08:00"
     description: A Helm chart for Kubernetes
-    digest: d68965e15ff922497ced8c11ec353420bdfa4489950ff49b064f2c0f3585ee45
-    name: echoserver
+    digest: 100460ba6a2937c5b247a10a8bb13ce913d4f23cd2becda7c84051982473b9d4
+    name: test
     type: application
     urls:
-    - https://tddhit.github.io/helm-chart/echoserver-0.1.0.tgz
+    - https://tddhit.github.io/helm-chart/test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-25T21:12:25.280487061+08:00"
+generated: "2021-03-25T21:20:04.159203333+08:00"
